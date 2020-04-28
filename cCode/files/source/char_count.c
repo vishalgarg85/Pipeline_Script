@@ -3,7 +3,6 @@
 int main()
 {
 	int c, i, nwhite, nother, ndigit[10];
-	int junkA,junkB,junkC[10];
 
 	nwhite = nother = 0;
 	for(i = 0; i < 10; i++)
